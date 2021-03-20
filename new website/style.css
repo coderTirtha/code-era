@@ -1,0 +1,73 @@
+.inside {
+    padding-top: 25%;
+    padding-bottom: 40%;
+}
+.container-2 {
+    background-color: blue;
+    text-align: center;
+    background-position: left;
+    background-size: 500px;
+}
+.intro {
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.img-1 {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(243, 239, 252);
+    text-align: top;
+}
+.enter {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(53, 3, 68);
+    background-color: rgb(241, 199, 168);
+    background-size: 50px;
+}
+.form {
+    margin-right: 20%;
+    margin-left: 25%;
+    margin-top: 0.5%;
+    background: url("signin.jpg") no-repeat;
+    border-radius: 10px;
+}
+.hding {
+    text-align: center;
+    color: whitesmoke;
+}
+.si-form {
+    margin-right: 10%;
+    margin-left: 10%;
+    background: url("signin2.jpg") no-repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    padding-bottom: 2%;
+    margin-top: 20%;
+    border-right: 10px;
+}
+.back {
+    margin-top: 20%;
+}
+.botom {
+    background-color: rgb(60, 4, 134);
+}
+.table {
+    background: url("code mania8.jpg");
+    background-size: cover;
+    background-position: top;
+    color: whitesmoke;
+}
+.teachers {
+    background-image: url("book.jpeg"); 
+    background-size: cover;
+    color: white;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    text-align: center;
+    font-size: 150%;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
